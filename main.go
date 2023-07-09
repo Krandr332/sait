@@ -2,8 +2,8 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/your-username/social-network/controllers"
-	"github.com/your-username/social-network/routes"
+	"github.com/Krandr332/sait/controllers"
+	"github.com/Krandr332/sait/routes"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package routes
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/your-username/social-network/controllers"
+	"github.com/Krandr332/sait/controllers"
 )
 
 func InitRoutes(r *gin.Engine, homeController *controllers.HomeController, profileController *controllers.ProfileController) {
